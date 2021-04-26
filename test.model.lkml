@@ -1,4 +1,4 @@
-connection: "SalesTax"
+connection: "salestax"
 label: "Sales Tax Data"
 
 # include all the views
