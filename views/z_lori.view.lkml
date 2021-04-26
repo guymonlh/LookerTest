@@ -1,4 +1,4 @@
-view: z_lori {
+view: salestax {
   sql_table_name: dbo.zLori ;;
 
   dimension: adjustment_amount {
