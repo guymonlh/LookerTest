@@ -59,7 +59,8 @@ view: salestax {
       week,
       month,
       quarter,
-      year
+      year,
+      month_name
     ]
     sql: ${TABLE}.FilingPeriodBeginDate ;;
   }
